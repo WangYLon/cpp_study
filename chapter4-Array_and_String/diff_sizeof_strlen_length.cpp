@@ -2,8 +2,7 @@
 #include <cstring> // 包含 strlen 函数
 #include <string>  // 包含 std::string 类
 
-// 其实<cstring>(C++中的头文件，内容同string.h)与<string.h>(C语言中的头文件)是一样的，
-// 前者可以理解为C++版本的<string.h>
+// 其实<cstring>(C++中的头文件，内容同string.h)与<string.h>(C语言中的头文件)是一样的，  前者可以理解为C++版本的<string.h>
 
 int main()
 {
